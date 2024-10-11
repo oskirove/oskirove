@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Oskirove, tu próximo dev favorito 😉</h1>
+<h1 align="center">Hola, soy Oskirove, tu futuro dev favorito </h1>
 <img src="https://github.com/user-attachments/assets/030d4256-9d5b-493e-8b4d-27b5ab08b2bd">
 
 <h3 align="center">ASIR de día, DAM de noche. En este repositorio encontrarás lo que pasa cuando combinas pasión, insomnio y algo de café.</h3>
